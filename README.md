@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **melihtosun@hacettepe.edu.tr**
 
